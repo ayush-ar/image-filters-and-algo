@@ -4,3 +4,5 @@
 2. Copy all the images in the respective Matlab folder.
 3. Copy all the codes in the matlab.
 4. Run the respective codes and enjoy.
+
+Contibutor: AYUSH RAGHUWANSHI.
